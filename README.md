@@ -1,6 +1,6 @@
 # Purchase Order Item Categorization Challenge
 
-This project focuses on categorizing purchase order items from real-world procurement data that contains unstructured, multilingual descriptions (primarily in English and Arabic). The goal is to develop a robust solution that can effectively classify these items and extract meaningful insights about spending patterns across different categories.
+This project focuses on categorizing purchase order items from real-world procurement data that contains unstructured, multilingual descriptions (primarily in English and Arabic). The goal is to develop a robust solution to effectively classify these items and extract meaningful insights about spending patterns across different categories.
 
 ## Table of Contents
 
@@ -11,17 +11,19 @@ This project focuses on categorizing purchase order items from real-world procur
 
 Instructions on how to install and set up the project.
 
-```bash
+```
 # Clone the repository
 git clone https://github.com/nadamakram/purchase-items.git
+ ```
 
 # Navigate to the project directory
-cd purchase-items
+``` cd purchase-items ```
 
+note: I am using python 3.13.2
 # Install dependencies
-pip install -r requirements.txt
+``` pip3 install -r requirements.txt ```
 
-## Usage
+# Usage
 
 Instructions and examples for using the project.
 
